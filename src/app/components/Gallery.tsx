@@ -12,7 +12,7 @@ const galleryItems = [
   },
   {
     id: 2,
-    src: 'https://images.unsplash.com/photo-1492106087820-fe151450c2c5?auto=format&fit=crop&w=600&q=80',
+    src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=600&q=80',
     alt: '大人っぽいストレートロングスタイル',
     style: 'ストレートロング',
     span: 'col-span-1 row-span-1',
@@ -26,7 +26,7 @@ const galleryItems = [
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1595476108010-9cfd5e13a81d?auto=format&fit=crop&w=600&q=80',
+    src: 'https://images.unsplash.com/photo-1512690459411-b9245aed614b?auto=format&fit=crop&w=600&q=80',
     alt: 'スタイリッシュなショートボブスタイル',
     style: 'ショートボブ',
     span: 'col-span-1 row-span-1',
